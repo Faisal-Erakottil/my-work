@@ -146,25 +146,6 @@ class _viewStudentState extends State<viewStudent> {
             const SizedBox(
               height: 20,
             ),
-            // Row(
-            //   mainAxisAlignment: MainAxisAlignment.spaceAround,
-            //   children: [
-            //     const Text(
-            //       "Address",
-            //       style: const TextStyle(
-            //         fontSize: 16,
-            //         fontWeight: FontWeight.w600,
-            //         color: Colors.black,
-            //       ),
-            //     ),
-            //     Text(
-            //       widget.user.address ?? '',
-            //       style: const TextStyle(
-            //         fontSize: 16,
-            //       ),
-            //     ),
-            //   ],
-            // )
           ],
         ),
       ),
